@@ -130,13 +130,13 @@ Image credits: unsplash.com
   background-repeat: no-repeat;
 }
 #bs-carousel.fade-carousel .slides .slide-1 {
-  background-image: url(../img/slides/ciageser-silde-001.jpg); 
+  background-image: url(../img/slides/rsu-silde-001.jpg); 
 }
 #bs-carousel.fade-carousel .slides .slide-2 {
-  background-image: url(../img/slides/ciageser-silde-002.jpg); 
+  background-image: url(../img/slides/rsu-silde-002.jpg); 
 }
 #bs-carousel.fade-carousel .slides .slide-3 {
-  background-image: url(../img/slides/ciageser-silde-003.jpg); 
+  background-image: url(../img/slides/rsu-silde-003.jpg); 
 }
 
 /********************************/
@@ -239,39 +239,39 @@ Image credits: unsplash.com
 /****************************************************************/
 
 
-#ciageser-clientes-carousel .carousel-control.left, #ciageser-clientes-carousel .carousel-control.right {
+#rsu-clientes-carousel .carousel-control.left, #rsu-clientes-carousel .carousel-control.right {
 	background-image:none;
 }
-#ciageser-clientes-carousel .carousel-control.left {
+#rsu-clientes-carousel .carousel-control.left {
 	left: -75px;;
 }
-#ciageser-clientes-carousel .carousel-control.right  {
+#rsu-clientes-carousel .carousel-control.right  {
 	right: -75px;
 }
 
-#ciageser-clientes-carousel .img-responsive{ width:100%; height:auto; }
+#rsu-clientes-carousel .img-responsive{ width:100%; height:auto; }
 
 @media (min-width: 992px ) {
-	#ciageser-clientes-carousel .carousel-inner .active.left { left: -25%; }
-	#ciageser-clientes-carousel .carousel-inner .next { left:  25%; }
-	#ciageser-clientes-carousel .carousel-inner .prev { left: -25%; }
+	#rsu-clientes-carousel .carousel-inner .active.left { left: -25%; }
+	#rsu-clientes-carousel .carousel-inner .next { left:  25%; }
+	#rsu-clientes-carousel .carousel-inner .prev { left: -25%; }
 }
 
 @media (min-width: 768px) and (max-width: 991px ) {
-	#ciageser-clientes-carousel .carousel-inner .active.left { left: -33.3%; }
-	#ciageser-clientes-carousel .carousel-inner .next { left:  33.3%; }
-	#ciageser-clientes-carousel .carousel-inner .prev { left: -33.3%; }
-	#ciageser-clientes-carousel .active > div:first-child { display:block; }
-	#ciageser-clientes-carousel .active > div:first-child + div { display:block; }
-	#ciageser-clientes-carousel .active > div:last-child { display:none; }
+	#rsu-clientes-carousel .carousel-inner .active.left { left: -33.3%; }
+	#rsu-clientes-carousel .carousel-inner .next { left:  33.3%; }
+	#rsu-clientes-carousel .carousel-inner .prev { left: -33.3%; }
+	#rsu-clientes-carousel .active > div:first-child { display:block; }
+	#rsu-clientes-carousel .active > div:first-child + div { display:block; }
+	#rsu-clientes-carousel .active > div:last-child { display:none; }
 }
 
 @media (max-width: 767px) {
-	#ciageser-clientes-carousel .carousel-inner .active.left { left: -100%; }
-	#ciageser-clientes-carousel .carousel-inner .next { left:  100%; }
-	#ciageser-clientes-carousel .carousel-inner .prev { left: -100%; }
-	#ciageser-clientes-carousel .active > div { display:none;	}
-	#ciageser-clientes-carousel .active > div:first-child { display:block; }
+	#rsu-clientes-carousel .carousel-inner .active.left { left: -100%; }
+	#rsu-clientes-carousel .carousel-inner .next { left:  100%; }
+	#rsu-clientes-carousel .carousel-inner .prev { left: -100%; }
+	#rsu-clientes-carousel .active > div { display:none;	}
+	#rsu-clientes-carousel .active > div:first-child { display:block; }
 }
 
 

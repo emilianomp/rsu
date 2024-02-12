@@ -1,6 +1,6 @@
 /*!
  * Base Bootstrap 
- * Copyright 2019 Ciageser
+ * Copyright 2019 RSU
  */
 
  /*
@@ -43,11 +43,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .nav-link {
     padding: 1rem 1rem;
 }
-.top-nav-collapse #ciageser-logo1,
- #ciageser-logo2 {
+.top-nav-collapse #rsu-logo1,
+ #rsu-logo2 {
     display:none;
 }
-.top-nav-collapse #ciageser-logo2 {
+.top-nav-collapse #rsu-logo2 {
     display:block !important;
 }
 
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .navbar-toggler-icon {
-    background: url("../img/ciageser-icon-smarth-bg.png") center center no-repeat;
+    background: url("../img/rsu-icon-smarth-bg.png") center center no-repeat;
 }
 
 .nav-tabs .nav-link.active {
@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 /*  Ciagaser-carpeta-servicios	*/
 /********************************/
 #Ciagaser-carpeta-servicios {
-    background: transparent url("../img/ciageser-fondo-01.jpg") top center no-repeat fixed;
+    background: transparent url("../img/rsu-fondo-01.jpg") top center no-repeat fixed;
     position: relative;
 	padding:90px 0px;
 }
@@ -271,15 +271,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 /********************************/
-/*  Ciageser "valorando el futuro" */
+/*  rsu "valorando el futuro" */
 /********************************/
 
-.ciageser-seccion {
-    background: transparent url("../img/ciageser-info-021.jpg") top center no-repeat fixed;
+.rsu-seccion {
+    background: transparent url("../img/rsu-info-021.jpg") top center no-repeat fixed;
     position: relative;
 	padding:80px 0px;
 }
-.ciageser-seccion h1 {
+.rsu-seccion h1 {
     color:white;
 }
 
@@ -297,7 +297,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 
 .Ciagaser-carpeta-servicios {
-    background: transparent url(../img/ciageser-info-021.jpg) top left no-repeat fixed;
+    background: transparent url(../img/rsu-info-021.jpg) top left no-repeat fixed;
     position: relative;
     padding: 80px 0px;
 }
@@ -540,13 +540,13 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .carousel-inner .slide-1 {
-    background-image: url(../img/slides/ciageser-silde-001.jpg);
+    background-image: url(../img/slides/rsu-silde-001.jpg);
 }
 .carousel-inner .slide-2 {
-    background-image: url(../img/slides/ciageser-silde-002.jpg);
+    background-image: url(../img/slides/rsu-silde-002.jpg);
 }
 .carousel-inner .slide-3 {
-    background-image: url(../img/slides/ciageser-silde-003.jpg);
+    background-image: url(../img/slides/rsu-silde-003.jpg);
 }
 
 .carousel-caption {
