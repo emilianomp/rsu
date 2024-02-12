@@ -120,18 +120,18 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 
 /********************************/
-/*  Ciagaser-carpeta-servicios	*/
+/*  rsu-carpeta-servicios	*/
 /********************************/
-#Ciagaser-carpeta-servicios {
+#rsu-carpeta-servicios {
     background: transparent url("../img/rsu-fondo-01.jpg") top center no-repeat fixed;
     position: relative;
 	padding:90px 0px;
 }
-#Ciagaser-carpeta-servicios h1,
-#Ciagaser-carpeta-servicios p{
+#rsu-carpeta-servicios h1,
+#rsu-carpeta-servicios p{
     color:white;
 }
-#Ciagaser-carpeta-servicios h1 {
+#rsu-carpeta-servicios h1 {
     margin-bottom:40px;
 }
 
@@ -296,7 +296,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 
-.Ciagaser-carpeta-servicios {
+.rsu-carpeta-servicios {
     background: transparent url(../img/rsu-info-021.jpg) top left no-repeat fixed;
     position: relative;
     padding: 80px 0px;
